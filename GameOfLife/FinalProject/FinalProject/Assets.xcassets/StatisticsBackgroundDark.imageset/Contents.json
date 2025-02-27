@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "StatisticsBackgroundDark.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "StatisticsBackgroundDark@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "StatisticsBackgroundDark@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
