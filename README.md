@@ -1,4 +1,5 @@
 Game of Life: Gotham Edition
+
 📜 Overview
 This project is an iOS implementation of Conway’s Game of Life, created as part of my iOS software development class, where I received the highest grade. The Gotham Edition brings a dark, thematic twist to the classic cellular automaton, featuring a sleek UI inspired by Gotham.
 
@@ -12,6 +13,8 @@ Performance Optimized Using Swift Algorithms ⚡
 Swift (UIKit / SwiftUI)
 Model-View-Controller (MVC) Architecture
 Core Animation for smooth cell transitions
+
+
 🎮 How to Play
 Launch the app to see a randomly generated grid of cells.
 Start the simulation, and watch the cells evolve based on Conway’s rules:
