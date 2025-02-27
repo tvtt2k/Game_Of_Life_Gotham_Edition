@@ -22,3 +22,6 @@ A live cell with fewer than 2 or more than 3 live neighbors dies.
 A dead cell with exactly 3 live neighbors becomes alive.
 Pause and edit the grid by adding or removing cells.
 Restart with a fresh grid for a new experience!
+
+Demo:
+https://www.youtube.com/shorts/Iz3-Swkt1a4
